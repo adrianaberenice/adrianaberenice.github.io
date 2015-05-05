@@ -9,6 +9,7 @@ div{
 }
 spam{
 	font-family:bold;
+	font-size:1em;
 }
 #encabezado{
 	z-index: 1;
