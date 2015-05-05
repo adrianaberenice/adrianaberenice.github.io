@@ -7,6 +7,9 @@ div{
     height:500px;
     
 }
+spam{
+	font-family:bold;
+}
 #encabezado{
 	z-index: 1;
 	position: fixed;
